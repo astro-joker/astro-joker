@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @astro-joker
-- 👀 I’m interested in security engineering
-- 🌱 I’m currently learning advanced maths
+- 👋 Hi, I’m Nadil Kularathne 
+- 👀 I’m interested in security engineering/ analysing & pen testing
+- 🌱 I’m currently learning cyber security fundamentals 
 - 💞️ I’m looking to collaborate on cyber security purposes
 - 📫 Catch me on instagram.com/_astro_joker_/
 <!---
